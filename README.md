@@ -93,10 +93,9 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 
 ### Transpilers
 
-* [6to5](https://github.com/6to5/6to5) (ES6)
+* [Babel](https://github.com/babel/babel) Transpile ES6, ES7 to ES5
 * [CoffeeScript](http://coffeescript.org/)
-* [Emscripten](http://kripken.github.io/emscripten-site/) (frequently used for C/C++ JavaScript ports)
-* [Traceur](https://github.com/google/traceur-compiler) (ES.next)
+* [Emscripten](http://kripken.github.io/emscripten-site/) Frequently used for C/C++ JavaScript ports
 * [ES6 tools](https://github.com/addyosmani/es6-tools) Addy Osmani's ES6 Tools list
 
 
