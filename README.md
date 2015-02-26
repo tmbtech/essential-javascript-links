@@ -141,6 +141,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Templates](http://webcomponents.org/articles/introduction-to-template-element/)
 * [Shadow DOM](http://webcomponents.org/articles/introduction-to-shadow-dom/)
 * [x-gif](http://geelen.github.io/x-gif/#/http://i.imgur.com/iKXH4E2.gif) This web component wins the internet.
+* [Vulcanize](https://github.com/Polymer/vulcanize) Don't let web components slow your app down. Bundle your HTML imports.
 
 
 ## QA / Deployment / Monitoring / CI
