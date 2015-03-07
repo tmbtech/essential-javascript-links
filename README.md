@@ -17,6 +17,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [JavaScript Training Sucks](https://medium.com/javascript-scene/javascript-training-sucks-284b53666245) 99 out of 100 JS developers lack the skills they need to fill hundreds of thousands of jobs. We can change that.
 * [The Two Pillars of JavaScript Part 1: Prototypal OO](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
 * [The Two Pillars of JavaScript Part 2: Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4)
+* [How to Fix the `class` Keyword](https://medium.com/p/how-to-fix-the-es6-class-keyword-2d42bb3f4caf) TL;DR `class` is broken. Don't use it until it's fixed.
 * [JavaScript Objects](http://davidwalsh.name/javascript-objects) An excellent explanation of inheritance in JavaScript by Kyle Simpson
 * [Isomorphic JavaScript](http://isomorphic.net/)
 * [JavaScript Application Architecture on the Road to 2015](https://medium.com/@addyosmani/javascript-application-architecture-on-the-road-to-2015-d8125811101b) - Addy Osmani
@@ -156,7 +157,6 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 
 ## Community
 
-* [ES Discuss](https://esdiscuss.org/) The mailing list where all the ECMAScript standard discussion action is.
 * [JavaScript on Google+](https://plus.google.com/communities/100875929141897651837)
 * [HTML5 on Google+](https://plus.google.com/communities/103299867207875326585)
 * [Node.js on Google+](https://plus.google.com/communities/115365528781941125390)
@@ -206,6 +206,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 
 * [JavaScript for Kids](http://www.amazon.com/gp/product/B00QL616QE?ie=UTF8&camp=213733&creative=393177&creativeASIN=B00QL616QE&linkCode=shr&tag=ericleads-20&linkId=6AOODC27L6URY3K2)
 * [LearnToMod](http://www.learntomod.com/) Mod Minecraft with JavaScript
+* [The Young Person's Guide to Programming in Minecraft](https://github.com/walterhiggins/ScriptCraft/blob/master/docs/YoungPersonsGuideToProgrammingMinecraft.md#the-young-persons-guide-to-programming-in-minecraft)
 
 
 ## Twitter (alphabetical order)
