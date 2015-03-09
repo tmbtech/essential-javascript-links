@@ -126,6 +126,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Page.js](https://github.com/visionmedia/page.js) Tiny client-side router, inspired by Express.
 * [Moment](http://momentjs.com/docs/) A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
 * [Globalize](https://github.com/jquery/globalize) i18n / translate your app for many languages and locations (locales)
+* [Lusca](https://github.com/krakenjs/lusca) Secure your Express application. By the Kraken team at PayPal.
 * [Express](http://expressjs.com/) The most popular framework for Node.
 * [Stampit](https://github.com/ericelliott/stampit) Create objects from reusable, composable behaviors. Prototypal inheritance with stamps.
 * [Credential](https://github.com/ericelliott/credential) If you write Node apps with password logins, you need Credential.
