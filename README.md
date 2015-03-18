@@ -86,6 +86,8 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 
 * [JSHint](http://jshint.com/)
 * [ESLint](http://eslint.org/)
+* [babel-eslint](https://github.com/babel/babel-eslint) Allow ES6 features to pass ESLint.
+* [eslint-plugin-no-class](https://github.com/emmenko/eslint-plugin-no-class) Forbid the ES6 `class` keyword. [Why?](https://github.com/eslint/eslint/pull/2096#issuecomment-83044888)
 * [Istanbul](https://github.com/gotwarlost/istanbul) Code coverage reporting
 * [tape](https://github.com/substack/tape) Minimal, dead simple unit testing. (This is all you need, really!)
 * [faucet](https://github.com/substack/faucet) Prettify unit testing output (like what comes from tape).
