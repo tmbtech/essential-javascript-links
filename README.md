@@ -112,7 +112,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 
 * [es5-shim](https://github.com/es-shims/es5-shim) Stable, production ready.
 * [es6-shim](https://github.com/es-shims/es6-shim/) Somewhat stable, but a few things I thought were solid got shifted to ES7.
-* [es7-shim](https://www.npmjs.com/package/es7-shim) Experimantal. Use with caution.
+* [es7-shim](https://www.npmjs.com/package/es7-shim) Experimental. Use with caution.
 * [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills) A fairly comprehensive list of HTML5 API polyfills.
 * [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate) You'll want to cherry-pick the best of this for your production apps. See [Initializr](http://www.initializr.com).
 * [The Isomorphic Express Boilerplate](https://github.com/ericelliott/isomorphic-express-boilerplate) Write apps using the same code for both the client and the server using Node, Express, and Browserify.
