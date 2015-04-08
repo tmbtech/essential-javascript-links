@@ -57,6 +57,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/) by Nicholas C. Zakas
 * [Node.js in Action](http://www.manning.com/cantelon/)
 * [The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal](http://www.amazon.com/gp/product/0670899763?ie=UTF8&camp=213733&creative=393177&creativeASIN=0670899763&linkCode=shr&tag=ericleads-20&linkId=NDUXYQOCMPC47SQI)
+* [WebGL Fundamentals](http://webglfundamentals.org/) An interactive online book about graphics programming.
 
 
 ## Dev tools & collaboration
