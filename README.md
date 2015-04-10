@@ -29,7 +29,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Typed JavaScript](http://www.2ality.com/2014/10/typed-javascript.html) Excellent post about the state of typed JavaScript by Axel Rauschmayer
 * [Taming the Asynchronous Beast with CSP in JavaScript](http://jlongster.com/Taming-the-Asynchronous-Beast-with-CSP-in-JavaScript) James Long
 * [ES6 Modules: The Final Syntax](http://www.2ality.com/2014/09/es6-modules-final.html) by @rauschma #AMDisDead
-
+* [Advanced Performance Audits with DevTools](http://www.paulirish.com/2015/advanced-performance-audits-with-devtools/) In-depth perf case studies with Paul Irish
 
 ## Required Viewing
 * [Classical Inheritance is Obsolete: How to Think in Prototypal OO](https://vimeo.com/69255635) by [Eric Elliott](https://twitter.com/_ericelliott)
