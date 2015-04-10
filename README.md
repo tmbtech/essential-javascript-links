@@ -204,6 +204,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Nodecopter](http://www.nodecopter.com/)
 * [Tessel](https://tessel.io/)
 * [Espruino](http://www.espruino.com/)
+* [Onion Omega](https://onion.io/omega)
 
 
 ## Hosting
