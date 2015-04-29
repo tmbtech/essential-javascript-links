@@ -34,8 +34,8 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 ## Required Viewing
 * [Classical Inheritance is Obsolete: How to Think in Prototypal OO](https://vimeo.com/69255635) by [Eric Elliott](https://twitter.com/_ericelliott)
 * [Asynchronous Programming at Netflix](https://www.youtube.com/watch?v=gawmdhCNy-A) [Jafar Husain](https://twitter.com/jhusain)
+* [What is Reactive Programming?](https://www.youtube.com/watch?v=dwP1TNXE6fc) [Jafar Husain](https://twitter.com/jhusain) explains reactive programming
 * [David Nolen: Immutability: Putting The Dream Machine To Work](https://www.youtube.com/watch?v=SiFwRtCnxv4) [David Nolen](https://twitter.com/swannodette)
-* [Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI&list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr) by [Lee Byron](https://twitter.com/leeb)
 * [Delivering the Goods](https://www.youtube.com/watch?v=R8W_6xWphtw) Paul Irish on one of the most important but overlooked topics in the development world today - page load times.
 * [Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0) A later version of the influential talk, "Simple Made Easy" by [Rich Hickey](https://twitter.com/richhickey)
 
@@ -126,6 +126,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [EventSource browser Polyfill](https://github.com/Yaffle/EventSource/) Required client-side patching to support Server Sent Events.
 * [jQuery](http://jquery.com/) Yes, [I still use jQuery](https://docs.google.com/document/d/1LPaPA30bLUB_publLIMF0RlhdnPx_ePXm7oW02iiT6o/edit#) and so do 61% of the top 100,000 websites - for good reason.
 * [Blaze](http://meteor.github.io/blaze/) DOM-diffing isomorphic reactive templates from Meteor.
+* [React](https://github.com/facebook/react) What do Facebook, Instagram, Netflix and PayPal have in common? React.
 * [Lodash-FP](https://github.com/lodash/lodash-fp) Like Underscore, but much faster, and featuring a more expressive API.
 * [RxJS](https://github.com/Reactive-Extensions/RxJS) Reactive extensions for JavaScript. [What's reactive?](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4)
 * [Page.js](https://github.com/visionmedia/page.js) Tiny client-side router, inspired by Express.
@@ -139,6 +140,16 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [velocity](http://julian.com/research/velocity/) & [Velocity Motion Designer (VMD)](http://julian.com/research/velocity/#vmd) UI animation library.
 * [is-my-json-valid](https://github.com/mafintosh/is-my-json-valid)  A fast [json-schema](http://json-schema.org/) validator.
 * [inquirer.js](https://github.com/SBoudrias/Inquirer.js) Great library for building CLI tools.
+
+
+## React
+
+* [Introducing React](https://www.youtube.com/watch?v=XxVg_s8xAms)
+* [Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI&list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr) by [Lee Byron](https://twitter.com/leeb)
+* [Data Fetching for React](https://www.youtube.com/watch?v=9sc8Pyc51uU) Relay & GraphQL Described
+* [Introducing Relay and GraphQL](https://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html)
+* [Building the Facebook Newsfeed with Relay](https://facebook.github.io/react/blog/2015/03/19/building-the-facebook-news-feed-with-relay.html)
+* [Relay FAQ](https://gist.github.com/wincent/598fa75e22bdfa44cf47)
 
 
 ## Web Components
