@@ -48,17 +48,18 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 
 ## Books
 
-* [JavaScript for Kids](http://www.amazon.com/gp/product/B00QL616QE?ie=UTF8&camp=213733&creative=393177&creativeASIN=B00QL616QE&linkCode=shr&tag=ericleads-20&linkId=6AOODC27L6URY3K2)
-* [Eloquent JavaScript](http://eloquentjavascript.net/)
-* [JavaScript: The Good Parts](http://www.amazon.com/gp/product/0596517742?ie=UTF8&camp=213733&creative=393185&creativeASIN=0596517742&linkCode=shr&tag=ericleads-20&linkId=IJKESYSOTWGC27DR)
-* [Effective JavaScript](http://www.amazon.com/gp/product/0321812182?ie=UTF8&camp=213733&creative=393185&creativeASIN=0321812182&linkCode=shr&tag=ericleads-20&linkId=JIC63I267I6UDQQZ)
-* [Programming JavaScript Applications](http://pjabook.com)
-* [JavaScript: The Definitive Guide](http://www.amazon.com/gp/product/0596805527?ie=UTF8&camp=213733&creative=393185&creativeASIN=0596805527&linkCode=shr&tag=ericleads-20&linkId=AENIF5KLRQI3N335)
-* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+* [JavaScript for Kids](http://www.amazon.com/gp/product/B00QL616QE?ie=UTF8&camp=213733&creative=393177&creativeASIN=B00QL616QE&linkCode=shr&tag=ericleads-20&linkId=6AOODC27L6URY3K2) by Nick Morgan
+* [Eloquent JavaScript](http://eloquentjavascript.net/) by Marijn Haverbeke
+* [JavaScript: The Good Parts](http://www.amazon.com/gp/product/0596517742?ie=UTF8&camp=213733&creative=393185&creativeASIN=0596517742&linkCode=shr&tag=ericleads-20&linkId=IJKESYSOTWGC27DR) by Douglas Crockford
+* [Effective JavaScript](http://www.amazon.com/gp/product/0321812182?ie=UTF8&camp=213733&creative=393185&creativeASIN=0321812182&linkCode=shr&tag=ericleads-20&linkId=JIC63I267I6UDQQZ) by David Herman
+* [Programming JavaScript Applications](http://pjabook.com) by Eric Elliott
+* [JavaScript: The Definitive Guide](http://www.amazon.com/gp/product/0596805527?ie=UTF8&camp=213733&creative=393185&creativeASIN=0596805527&linkCode=shr&tag=ericleads-20&linkId=AENIF5KLRQI3N335) by David Flanagan
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) by Kyle Simpson
 * [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/) by Nicholas C. Zakas
-* [Node.js in Action](http://www.manning.com/cantelon/)
-* [The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal](http://www.amazon.com/gp/product/0670899763?ie=UTF8&camp=213733&creative=393177&creativeASIN=0670899763&linkCode=shr&tag=ericleads-20&linkId=NDUXYQOCMPC47SQI)
-* [WebGL Fundamentals](http://webglfundamentals.org/) An interactive online book about graphics programming.
+* [JavaScript Allongé](https://leanpub.com/javascriptallongesix) by Reginald Braithwaite
+* [Node.js in Action](http://www.manning.com/cantelon/) by Mike Cantelon, Marc Harter, T.J. Holowaychuk and Nathan Rajlich
+* [The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal](http://www.amazon.com/gp/product/0670899763?ie=UTF8&camp=213733&creative=393177&creativeASIN=0670899763&linkCode=shr&tag=ericleads-20&linkId=NDUXYQOCMPC47SQI) by M. Mitchell Waldrop
+* [WebGL Fundamentals](http://webglfundamentals.org/) by Greggman - An interactive online book about graphics programming.
 
 
 ## Dev tools & collaboration
