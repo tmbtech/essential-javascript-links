@@ -147,6 +147,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 ## React
 
 * [Introducing React](https://www.youtube.com/watch?v=XxVg_s8xAms)
+* [JSX Looks Like an Abomination but it's Good for You](https://medium.com/javascript-scene/jsx-looks-like-an-abomination-1c1ec351a918) My take on JSX
 * [Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI&list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr) by [Lee Byron](https://twitter.com/leeb)
 * [Data Fetching for React](https://www.youtube.com/watch?v=9sc8Pyc51uU) Relay & GraphQL Described
 * [Introducing Relay and GraphQL](https://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html)
