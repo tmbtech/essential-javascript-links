@@ -91,6 +91,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [ESLint](http://eslint.org/)
 * [babel-eslint](https://github.com/babel/babel-eslint) Allow ES6 features to pass ESLint.
 * [eslint-plugin-no-class](https://github.com/emmenko/eslint-plugin-no-class) Forbid the ES6 `class` keyword. [Why?](https://github.com/eslint/eslint/pull/2096#issuecomment-83044888)
+* [ESLint no-inferred-methodname](https://github.com/johnstonbl01/eslint-no-inferred-method-name) A custom rule for a common problem.
 * [Istanbul](https://github.com/gotwarlost/istanbul) Code coverage reporting
 * [tape](https://github.com/substack/tape) Minimal, dead simple unit testing. (This is all you need, really!)
 * [faucet](https://github.com/substack/faucet) Prettify unit testing output (like what comes from tape).
@@ -151,6 +152,9 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Introducing Relay and GraphQL](https://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html)
 * [Building the Facebook Newsfeed with Relay](https://facebook.github.io/react/blog/2015/03/19/building-the-facebook-news-feed-with-relay.html)
 * [Relay FAQ](https://gist.github.com/wincent/598fa75e22bdfa44cf47)
+* [react-engine](https://github.com/paypal/react-engine) PayPal's isomorphic React view engine for Express or Kraken
+* [Radium](http://projects.formidablelabs.com/radium/) Simplify inline styles
+* [ESLint Plugin](https://github.com/yannickcr/eslint-plugin-react)
 
 
 ## Web Components
