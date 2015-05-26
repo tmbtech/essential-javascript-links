@@ -155,7 +155,9 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Relay FAQ](https://gist.github.com/wincent/598fa75e22bdfa44cf47)
 * [react-engine](https://github.com/paypal/react-engine) PayPal's isomorphic React view engine for Express or Kraken
 * [Radium](http://projects.formidablelabs.com/radium/) Simplify inline styles
-* [ESLint Plugin](https://github.com/yannickcr/eslint-plugin-react)
+* [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react)
+* [React Hot Loader](https://gaearon.github.io/react-hot-loader/) for Webpack
+* [livereactload](https://github.com/milankinen/livereactload) for Browserify
 
 
 ## Web Components
