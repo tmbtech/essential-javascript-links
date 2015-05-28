@@ -83,6 +83,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 
 * [Browserify](http://browserify.org/) Bundle modules for the browser.
 * [How to use NPM as a Build Tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
+* [pre-commit](https://github.com/observing/pre-commit) Easily configure pre-commit hooks for your package
 
 
 ### Testing / Lint / Quality checkers
