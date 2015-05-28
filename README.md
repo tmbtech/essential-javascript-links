@@ -19,6 +19,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [The Two Pillars of JavaScript Part 2: Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4)
 * [How to Fix the `class` Keyword](https://medium.com/p/how-to-fix-the-es6-class-keyword-2d42bb3f4caf) TL;DR `class` is broken. Don't use it until it's fixed.
 * [JavaScript Objects](http://davidwalsh.name/javascript-objects) An excellent explanation of inheritance in JavaScript by Kyle Simpson
+* [Unapply attack](http://glebbahmutov.com/blog/unapply-attack/) Make your JS apps more secure by freezing builtins.
 * [Isomorphic JavaScript](http://isomorphic.net/)
 * [JavaScript Application Architecture on the Road to 2015](https://medium.com/@addyosmani/javascript-application-architecture-on-the-road-to-2015-d8125811101b) Addy Osmani
 * [The Dao of Immutability](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd) The Way of the Functional Programmer
