@@ -1,15 +1,22 @@
 var fs = require('fs'),
-		md = require('markdown').markdown;
+    path = require('path');
 
-var markdownPath = 'essential-javascript-links.md',
-    moreMetaData = {
-      path: 'theBookData.json',
-      id: 'theBookData'
-    },
-    jsonOutPath = 'the-big-data.json';
+var argv = process.argv,
+    markdownPath, jsonOutPath, moreMetaData;
+
+if ( !(markdownPath = argv[2]) ||
+     !(jsonOutPath = argv[3]) )
+  return console.error('Usage: <source.md> <destination.json> [<data-to-merge.json> [varInTheMergeData]]');
+
+if (argv[4])
+  moreMetaData = {
+    path: argv[4],
+    id: argv[5] || path.base(argv[4], '.json')
+  };
 
 fs.readFile(markdownPath, {encoding: 'UTF-8', flag: 'r'}, function (err, data) {
-	if (err) return;
+	if (err)
+    return console.error('Couldn\'t open ' + path.resolve(markdownPath));
 
   var allLinks = [],
       categories = [];
@@ -20,10 +27,21 @@ fs.readFile(markdownPath, {encoding: 'UTF-8', flag: 'r'}, function (err, data) {
       currentMeta = {},
       currentMetaIndex = {};
 
-  moreMeta = JSON.parse(fs.readFileSync(moreMetaData.path, 'utf8'))[moreMetaData.id];
-  moreMeta.forEach(function(el) {
-    moreMetaIndex[el.title] = el.items;
-  });
+  if (moreMetaData) {
+    try {
+      var moreMetaString = fs.readFileSync(moreMetaData.path, 'utf8');
+    }
+    catch (e) {
+      return console.error('Couldn\'t open ' + path.resolve(moreMetaData.path));
+    }
+
+    if (!(moreMeta = JSON.parse(moreMetaString)[moreMetaData.id]))
+      return console.error('Couln\'t get a value of ' + moreMetaData.id + ' from ' + moreMetaData.path);
+
+    moreMeta.forEach(function(el) {
+      moreMetaIndex[el.title] = el.items;
+    });
+  }
 
 	data.split(/\r?\n/).forEach( function(line) {
     var match;
@@ -46,8 +64,9 @@ fs.readFile(markdownPath, {encoding: 'UTF-8', flag: 'r'}, function (err, data) {
         short_description: match[4],
         categories: [currentCategory]
       };
-      enhanceMeta(current, currentMetaIndex[current.title]);
-//      current.rank = current.rank || 0; // no rank? end of the line for you.
+
+      if (moreMetaData)
+        enhanceMeta(current, currentMetaIndex[current.title]);
       allLinks.push(current);
     }
 
@@ -78,5 +97,8 @@ fs.readFile(markdownPath, {encoding: 'UTF-8', flag: 'r'}, function (err, data) {
   });
 
   var theBigString = JSON.stringify({allTheLinks: allLinks, linkCategories: categories}, null, 2);
-  fs.writeFile(jsonOutPath, theBigString);
+  fs.writeFile(jsonOutPath, theBigString, function(err){
+    if (err)
+      console.error('Couldn\'t write' + path.resolve(jsonOutPath));
+  });
 });
