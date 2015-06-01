@@ -263,3 +263,4 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Paul Irish](https://twitter.com/paul_irish) Developer evangelist, Chrome dev tools champion
 * [Reginald Braithwaite](https://twitter.com/raganwald) Author, "JavaScript Allongé", speaker, PagerDuty
 * [YDKJS](https://twitter.com/ydkjs) You Don't Know JS, O'Reilly book series by Kyle Simpson
+* [Nicolas Bevacqua](https://twitter.com/nzgb) Author "JavaScript Application Design", Speaker, Open-Source Evangelist
