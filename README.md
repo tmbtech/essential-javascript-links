@@ -201,6 +201,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [EchoJS](http://www.echojs.com/)
 * [DailyJS](http://dailyjs.com/)
 * [JavaScript Jabber](http://devchat.tv/js-jabber/)
+* [Node Module Of The Week](http://nmotw.in)
 
 
 ## Pasting / sharing code
