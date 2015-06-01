@@ -245,8 +245,8 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Angus Croll](https://twitter.com/angustweets) Author, "If Hemingway Wrote JavaScript"
 * [Axel Rauschmayer](https://twitter.com/rauschma) ES Next evangelist, author
 * [Brendan Eich](https://twitter.com/BrendanEich) Created JavaScript
-* [David Nolen](https://twitter.com/swannodette) Great functional programming content
 * [David Herman](https://twitter.com/littlecalculist) Author, "Effective JavaScript"
+* [David Nolen](https://twitter.com/swannodette) Great functional programming content
 * [EchoJS](https://twitter.com/echojs) News and links
 * [Eric Elliott](https://twitter.com/_ericelliott) That's me. O'Reilly author. JavaScript architect. JS Instructor.
 * [Jafar Husain](https://twitter.com/jhusain) Great talks on RxJS, ES next, etc...
