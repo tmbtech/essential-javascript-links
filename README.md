@@ -260,5 +260,5 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Nicholas C. Zakas](https://twitter.com/slicknet) Author, speaker
 * [Nick Morgan](https://twitter.com/skilldrick) Author, "JavaScript for Kids"
 * [Paul Irish](https://twitter.com/paul_irish) Developer evangelist, Chrome dev tools champion
-* [Reginald Braithwaite](https://twitter.com/raganwald) Author, "JavaScript Allongé", speaker, GitHub
+* [Reginald Braithwaite](https://twitter.com/raganwald) Author, "JavaScript Allongé", speaker, PagerDuty
 * [YDKJS](https://twitter.com/ydkjs) You Don't Know JS, O'Reilly book series by Kyle Simpson
