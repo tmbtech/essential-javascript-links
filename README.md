@@ -1,6 +1,6 @@
 # Essential JavaScript Links
 
-A curated list by Eric Elliott and friends. Suggest links in the [gist comments](https://gist.github.com/ericelliott/d576f72441fc1b27dace#comment-1365676).
+A curated list by Eric Elliott and friends. Suggest a link with a PR or [open a new issue](https://github.com/ericelliott/essential-javascript-links/issues/new).
 
 [Help us turn this into a proper website!](https://github.com/ericelliott/essential-javascript-links/issues)
 
