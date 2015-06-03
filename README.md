@@ -194,6 +194,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * IRC ##JavaScript irc://irc.freenode.net/javascript
 * IRC #node.js irc://irc.freenode.net/node.js
 * IRC #io.js irc://irc.freenode.net/io.js The Node fork
+* IRC #learnjavascript irc://irc.freenode.net/learnjavascript
 
 
 ## News
