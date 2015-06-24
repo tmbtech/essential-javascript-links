@@ -61,6 +61,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Node.js in Action](http://www.manning.com/cantelon/) by Mike Cantelon, Marc Harter, T.J. Holowaychuk and Nathan Rajlich
 * [The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal](http://www.amazon.com/gp/product/0670899763?ie=UTF8&camp=213733&creative=393177&creativeASIN=0670899763&linkCode=shr&tag=ericleads-20&linkId=NDUXYQOCMPC47SQI) by M. Mitchell Waldrop
 * [WebGL Fundamentals](http://webglfundamentals.org/) by Greggman - An interactive online book about graphics programming.
+* [Exploring ES6](https://leanpub.com/exploring-es6/read) by Axel Rauschmayer - Upgrade to the next version of Javascript.
 
 
 ## Dev tools & collaboration
